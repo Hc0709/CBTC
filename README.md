@@ -12,10 +12,6 @@ The Iris Classification project aims to classify iris flowers into three differe
 
 The Spam Detection project focuses on identifying whether an email is spam or not based on its content. Using the SMS Spam Collection dataset, which contains labeled examples of both spam and ham (non-spam) messages, a machine learning model is trained to recognize patterns and characteristics typical of spam messages. The project involves text preprocessing, feature extraction, model training, and evaluation. The resulting model can then be used to classify new messages as either spam or non-spam.
 
-Great! You've uploaded Jupyter notebooks for both the Iris Classification and Spam Detection projects. Let's generate the README based on the provided notebooks.
-
----
-
 # README
 
 ## Iris Classification and Spam Detection using Machine Learning
